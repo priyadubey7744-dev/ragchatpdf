@@ -1,6 +1,7 @@
 # 🤖 RAG Chat with PDF — AI Agent Development Assignment
 
 **Name:** PRIYA DUBEY
+
 **Role Applied:** AI Agent Development Intern  
 
 ---
